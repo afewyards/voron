@@ -1,0 +1,12 @@
+[probe]
+
+x_offset: -29.8
+y_offset: -13.5
+z_offset: 2.202
+speed: 5
+samples: 3
+sample_retract_dist: 2
+lift_speed: 5.0
+samples_result: median
+samples_tolerance: 0.02
+samples_tolerance_retries: 5
