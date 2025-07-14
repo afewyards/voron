@@ -1,13 +1,6 @@
 .env
 secrets.conf
-printer_data/config/K-ShakeTune/K-SnT_axes_map.cfg
-printer_data/config/K-ShakeTune/K-SnT_axis.cfg
-printer_data/config/K-ShakeTune/K-SnT_belts.cfg
-printer_data/config/K-ShakeTune/K-SnT_static_freq.cfg
-printer_data/config/K-ShakeTune/K-SnT_vibrations.cfg
-printer_data/config/K-ShakeTune/scripts
-printer_data/config/K-ShakeTune/shaketune_cmd.cfg
-printer_data/config/K-ShakeTune/shaketune.sh
+printer_data/config/K-ShakeTune/*
 printer_data/config/K-ShakeTune_results/belts
 printer_data/config/K-ShakeTune_results/inputshaper
 printer_data/config/K-ShakeTune_results/vibrations
