@@ -6,7 +6,7 @@
 ##	SSR Pin - Z board, Fan Pin
 heater_pin: PA0
 sensor_type: NTC 100K MGB18-104F39050L32
-sensor_pin: PF3
+sensor_pin: Z:0.25
 ##	Adjust Max Power so your heater doesn't warp your bed
 max_power: 0.5
 min_temp: 0
