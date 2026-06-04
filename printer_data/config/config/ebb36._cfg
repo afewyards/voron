@@ -90,7 +90,7 @@ interpolate: False # Current Klipper standard is to disabled this
 run_current: 0.75 # Set to your motor current
 #hold_current: 0.100 # Should not be set
 sense_resistor: 0.11 # Set to your Stepstick value
-stealthchop_threshold: 0
+
 driver_TBL: 0 # I'm not sure why these are in the default from the orbiter project but I have them commented out.
 driver_HEND: 6
 driver_HSTRT: 7
